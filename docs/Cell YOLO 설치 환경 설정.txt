@@ -1,0 +1,10 @@
+
+https://beausty23.tistory.com/59
+
+
+
+
+[설치]
+conda create -n cell python=3.7
+activate cell 
+pip install tensorflow==1.13.1
