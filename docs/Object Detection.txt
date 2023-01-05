@@ -1,0 +1,24 @@
+섹션 1. Object Detection의 이해
+섹션 2. Object Detection과 Segmentation을 위한 주요 데이터 세트 및 OpenCV 소개
+섹션 3. RCNN 계열 Object Detecter(RCNN, SPPNet, Fast RCNN, Faster RCNN)
+섹션 4. MMDetection의 이해와 Faster RCNN 적용 실습 - 01
+섹션 5. MMDetection의 이해와 Faster RCNN 적용 실습 - 02
+섹션 6. SSD (Single Shot Detector)
+섹션 7. SSD 실습
+섹션 8. YOLO(You Only Look Once)
+섹션 9. Ultralytics Yolo 실습 - 01
+섹션 10. Ultralytics Yolo 실습 - 02
+섹션 11. RetinaNet 과 EfficientDet
+섹션 12. AutoML EfficientDet 실습 - 01
+섹션 13. AutoML EfficientDet 실습 - 02
+섹션 14. Segmentation - Mask RCNN
+섹션 15. Mask RCNN - 실습 01
+섹션 16. Mask RCNN - 실습 02
+
+
+
+Faster RCNN
+SSD *
+YOLO3,5
+EfficientDet
+
